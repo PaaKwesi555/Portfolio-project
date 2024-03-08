@@ -1,0 +1,38 @@
+.pkimg{
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+body{
+    background-color: rgb(170, 214, 214);
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.header{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: max-content;
+    height: 120px;
+}
+
+.footer-parent{
+    
+
+}
+
+.footer1{
+    margin-top: 50px;
+    margin-left: 0;
+}
+
+.footer2{
+
+}
